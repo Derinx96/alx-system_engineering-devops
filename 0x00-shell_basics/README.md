@@ -7,3 +7,4 @@ Curent directory contents in long format, with user & group IDs displayed numeri
 Creating directory
 Betty in my first directory
 Delete file "betty"
+Delete my first directory
