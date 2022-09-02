@@ -6,3 +6,4 @@ Current directory contents in a long format including hidden files
 Curent directory contents in long format, with user & group IDs displayed numerically and hidden files
 Creating directory
 Betty in my first directory
+Delete file "betty"
