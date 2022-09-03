@@ -12,3 +12,4 @@ change working directory to previous one
 list files with period character
 Print type of file "iamafile"
 Symbolic link
+Copy HTML files
