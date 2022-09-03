@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type tmp iamafile -printiamafile
+file /tmp/iamafile
