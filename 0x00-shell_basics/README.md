@@ -9,3 +9,4 @@ Betty in my first directory
 Delete file "betty"
 Delete my first directory
 change working directory to previous one
+list files with period character
